@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-440136dc"],{"8de4":function(t,n,e){"use strict";e.r(n);var c=function(){var t=this,n=t.$createElement,c=t._self._c||n;return c("div",[c("router-link",{attrs:{to:"/minijeu12"}},[c("img",{attrs:{alt:"Objet suivant",src:e("a7c1")}})])],1)},i=[],r=e("2877"),u={},a=Object(r["a"])(u,c,i,!1,null,null,null);n["default"]=a.exports},a7c1:function(t,n,e){t.exports=e.p+"img/3_Objet_2.1f9b6b41.png"}}]);
+//# sourceMappingURL=chunk-440136dc.0423e730.js.map

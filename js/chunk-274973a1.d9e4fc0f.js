@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-274973a1"],{"3e85":function(t,e,n){t.exports=n.p+"img/3_Objet_3.ce1f4b87.png"},c604:function(t,e,n){"use strict";n.r(e);var i=function(){var t=this,e=t.$createElement,i=t._self._c||e;return i("div",[i("router-link",{attrs:{to:"/minijeu13"}},[i("img",{attrs:{alt:"Objet suivant",src:n("3e85")}})])],1)},r=[],u=n("2877"),c={},s=Object(u["a"])(c,i,r,!1,null,null,null);e["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-274973a1.d9e4fc0f.js.map

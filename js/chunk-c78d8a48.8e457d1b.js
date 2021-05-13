@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-c78d8a48"],{"6d48":function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement;n._self._c;return n._m(0)},r=[function(){var n=this,e=n.$createElement,c=n._self._c||e;return c("div",[c("img",{attrs:{src:t("addf")}})])}],a=t("2877"),s={},u=Object(a["a"])(s,c,r,!1,null,null,null);e["default"]=u.exports},addf:function(n,e,t){n.exports=t.p+"img/1d_CREA_PERSO3_v1.7c964e9f.png"}}]);
+//# sourceMappingURL=chunk-c78d8a48.8e457d1b.js.map
